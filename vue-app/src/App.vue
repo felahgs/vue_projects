@@ -3,6 +3,7 @@
     <h1>Employees</h1>
 
     <employee-table/>
+    <a href="https://www.taniarascia.com/getting-started-with-vue/">Tutorial link</a>
   </div>
 </template>
 
